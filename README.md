@@ -35,15 +35,6 @@ A dynamic mobile app that fetches and displays real-time movie data using extern
 
 ---
 
-### 📈 GitHub Stats
-
-⚡ Powered by my passion for coding, here is a quick overview of my GitHub activity:
-
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaledll9&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledll9&layout=compact&theme=radial&hide_border=true)
-
----
-
 ### 🤝 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/khaled-alqady-b12790255)
 - 📧 Email: khaledalkady779@gmail.com
