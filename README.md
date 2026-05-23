@@ -24,9 +24,8 @@ I am a passionate *Mobile Application Developer* and *Software Engineer* dedicat
 
 ### 📁 Featured Projects
 
-#### 🌟 [Yusur App (تطبيق يسر)](https://github.com/Khaledll9/Yusur_app)
+#### 🌟 [Yusur App](https://github.com/Khaledll9/Yusur_app)
 A comprehensive mobile application designed to deliver seamless user solutions with a focus on optimized performance and a clean UI layout. 
-* Check out the [Yusur Demo](https://github.com/Khaledll9/Yusur_demo) repository for a quick look at its core implementation.
 
 #### 🎓 [Graduation Finance Manager](https://github.com/Khaledll9/Graduation_finance_manager)
 A smart financial management application developed as a graduation project, featuring expense tracking, budgeting, and structured data handling.
