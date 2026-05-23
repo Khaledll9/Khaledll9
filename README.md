@@ -45,7 +45,7 @@ A dynamic mobile app that fetches and displays real-time movie data using extern
 ---
 
 ### 🤝 Connect with Me
-- 💼 [LinkedIn] https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/khaled-alqady-b12790255
-- 📧 Email: khaledalkady779@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/khaled-alqady-b12790255)
+- 📧 Email(khaledalkady779@gmail.com)
 
 "Code is like humor. When you have to explain it, it’s bad."
