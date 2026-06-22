@@ -15,7 +15,7 @@ I am a passionate *Mobile Application Developer* and *Software Engineer* dedicat
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| *Languages & Frameworks* | Flutter, Dart, Java, C++ |
+| *Languages & Frameworks* | Flutter, Dart, Angular, TypeScript, Javascript, Java, C++ |
 | *Backend & Databases* | Firebase, RESTful APIs, SQLite |
 | *Architecture & State* | Bloc/Cubit, Provider, MVVM, Clean Architecture |
 | *Tools & Design* | Git & GitHub, Figma, Android Studio, VS Code |
